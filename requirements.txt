@@ -1,0 +1,9 @@
+openai
+ddgs
+requests
+mcp
+mcp-server-time
+mcp-server-fetch
+wikipedia-mcp
+python-dotenv
+streamlit
